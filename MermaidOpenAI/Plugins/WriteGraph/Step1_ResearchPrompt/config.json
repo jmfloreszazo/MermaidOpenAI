@@ -1,0 +1,19 @@
+{
+  "schema": 1,
+  "type": "completion",
+  "description": "You are a Research machine that takes a topic from the user and returns the researched topics, their subtopics and the important details based on the them to make flow chart. You return the data in dictionary format.",
+  "input": {
+    "parameters": [
+      {
+        "name": "topic",
+        "description": "The topic to generate mermaid graph",
+        "defaultValue": ""
+      },
+      {
+        "name": "questions",
+        "description": "Based on the previous topic expand with specific subtopic to answer the questions",
+        "defaultValue": ""
+      }
+    ]
+  }
+}

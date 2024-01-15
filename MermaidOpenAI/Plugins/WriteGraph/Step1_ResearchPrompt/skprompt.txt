@@ -1,0 +1,80 @@
+# Tema de Investigación
+
++++++
+{{$topic}}
++++++
+
+# Instrucciones
+Para realizar una investigación exhaustiva y detallada sobre el tema proporcionado, es crucial comenzar por definir el ámbito de la investigación y luego desglosar el tema en una estructura jerárquica de subtemas y detalles asociados. 
+
+A continuación se muestra la estructura generalizada que se puede adaptar a cualquier tema específico dado por el cliente:  
+   
+1. **Definición y Contexto del Tema**  
+    - Significado e importancia del tema.  
+    - Aplicaciones prácticas o relevancia en la actualidad.  
+    - Perspectiva histórica y evolución del tema.  
+   
+2. **Áreas Clave o Subtemas Principales**  
+    - Subtema 1  
+        - Definición y alcance.  
+        - Detalles y ejemplos específicos.  
+        - Implicaciones o importancia en el tema general.  
+    - Subtema 2  
+        - Definición y alcance.  
+        - Detalles y ejemplos específicos.  
+        - Interconexiones con otros subtemas.  
+    - Subtema 3  
+        - Descripción y relevancia.  
+        - Estadísticas o datos actuales.  
+        - Desafíos o problemas asociados.  
+    - (Continuar con más subtemas de manera similar).  
+   
+3. **Ramificaciones de los Subtemas**  
+    - Ramificación del Subtema 1  
+        - Aspectos específicos o elementos constitutivos.  
+        - Casos de estudio o ejemplos prácticos.  
+        - Impacto a corto y largo plazo.  
+    - Ramificación del Subtema 2  
+        - Teorías o modelos relacionados.  
+        - Investigaciones o descubrimientos recientes.  
+        - Proyecciones futuras o tendencias emergentes.  
+    - (Continuar con más ramificaciones de manera similar y hasta un nivel que permita realizar una investigación exhaustiva).  
+   
+4. **Análisis de Oportunidades y Riesgos**  
+    - Oportunidades que presenta el tema.  
+    - Riesgos o desafíos potenciales.  
+    - Estrategias para maximizar beneficios y minimizar riesgos.  
+   
+5. **Fortalezas y Debilidades Relacionadas con el Tema**  
+    - Fortalezas inherentes o ventajas competitivas.  
+    - Debilidades o vulnerabilidades.  
+    - Recomendaciones para el fortalecimiento o mejora.  
+   
+6. **Conclusión y Recomendaciones**  
+    - Síntesis de la información recopilada.  
+    - Recomendaciones basadas en el análisis.  
+    - Pasos a seguir o dirección futura de la investigación.  
+   
+## Preguntas Guía para el Análisis
+   
+Para adaptar la investigación a las necesidades específicas del cliente, las siguientes preguntas guía son cruciales para entender la situación actual del usuario y proporcionar una respuesta optimizada:  
+   
+1. "¿Cuál es el propósito principal de la investigación sobre este tema?"  
+2. "¿Cuáles son los objetivos específicos que el cliente espera alcanzar?"  
+3. "¿Existen áreas de especial interés o preocupación para el cliente dentro de este tema?"  
+4. "¿Qué tipo de aplicaciones prácticas o decisiones se derivarán de los resultados de esta investigación?"  
+5. "¿Cómo planea el cliente utilizar la información proporcionada en el diagrama de flujo?"  
+   
+Estas preguntas permiten enfocar la investigación y asegurar que los resultados sean pertinentes y valiosos para el cliente. Una vez recibidas las respuestas, se procederá a ampliar y personalizar la investigación en función de la información proporcionada.
+
+Es posible que el cliente te pida que respondas a estas preguntas en el diagrama de flujo. Si es así, asegúrate de incluir las respuestas en el diagrama de flujo.
+
+Usa un máximo de 5 cuestiones para entender la situación del usuario y proporcionar la mejor solución. Las cuestiones que amplia el cliente te ayudarán a comprender la situación actual del usuario y proporcionar una respuesta optimizada.  
+   
+Nota: Las preguntas deben estar en formato separado por comas. Por ejemplo: "¿De qué trata el tema?", "¿Cuáles son los subtemas?", "¿Cuáles son las ramificaciones de los subtemas?", "¿Cuáles son los detalles importantes de las ramificaciones?".  
+   
+No uses ' en la salida. Usa " en su lugar.
+
++++++
+{{$questions}}
++++++
